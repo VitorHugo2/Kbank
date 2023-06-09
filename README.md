@@ -3,7 +3,7 @@ Clonando a pagina inicial da NuBank
 
 ## Getting Started
 
-<img src="kbank.gif" alt="Kbank" style="width:100px;height:100px;">
+<img src="kbank.gif" alt="Kbank" style="width:720px;height:1280px;">
 
 This project is a starting point for a Flutter application.
 
