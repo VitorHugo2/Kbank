@@ -3,10 +3,7 @@ Clonando a pagina inicial da NuBank
 
 ## Getting Started
 
-<video width="320" height="240" controls="controls" autoplay="autoplay">
-<source src="video.mp4" type="video/mp4" />
-
-</video>
+<img src="kbank.gif" alt="Kbank" style="width:100px;height:100px;">
 
 This project is a starting point for a Flutter application.
 
