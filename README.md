@@ -1,8 +1,9 @@
-# nu_clone
-
-A new Flutter project.
+# KBank
+Clonando a pagina inicial da NuBank
 
 ## Getting Started
+
+<video src="kbank.mp4"></video>
 
 This project is a starting point for a Flutter application.
 
