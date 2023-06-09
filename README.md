@@ -1,13 +1,13 @@
 # KBank
-Clonando a pagina inicial da NuBank
+## Refazendo a pagina inicial da NuBank
 
-## Getting Started
+
 
 <img src="kbank.gif" alt="Kbank" style="width:360px;height:640px;">
 
-This project is a starting point for a Flutter application.
+Este Projeto foi feito usando Flutter e Dart
 
-A few resources to get you started if this is your first Flutter project:
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
